@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Computer+Engineering+%40+Waterloo;Full-stack+%26+backend+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Computer+Engineering+%40+Waterloo;Full-stack+developer" alt="Typing SVG" />
   </a>
 </p>
 
 ## 👋 About
 
-Computer Engineering student at the **University of Waterloo** (2025–2030), based in Toronto. I build full-stack and backend software, with experience in web platforms, testing infrastructure, and ground-station systems for satellites.
+Computer Engineering student at the **University of Waterloo** (2025–2030), based in Toronto.
 
 ## 🛠 Skills
 
